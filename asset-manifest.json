@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CursorHW17/static/css/main.e1795cc4.css",
+    "main.js": "/CursorHW17/static/js/main.5666dee0.js",
+    "index.html": "/CursorHW17/index.html",
+    "main.e1795cc4.css.map": "/CursorHW17/static/css/main.e1795cc4.css.map",
+    "main.5666dee0.js.map": "/CursorHW17/static/js/main.5666dee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1795cc4.css",
+    "static/js/main.5666dee0.js"
+  ]
+}
